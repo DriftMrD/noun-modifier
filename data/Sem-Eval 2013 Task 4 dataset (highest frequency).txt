@@ -1,0 +1,145 @@
+Noun-Modifier	Paraphrase
+accounting treatment	treatment for accounting
+advertising agency	agency for advertising
+air strike	strike from the air
+amateur championship	championship for amateur
+approval listing	listing of approval
+aquarium subject	subject of aquarium
+assessment task	task for assessment
+bank deposit	deposit at a bank
+banner headline	headline of banner
+bedside light	light used at bedside
+breakfast coffee	coffee for breakfast
+building stone	stone used for building
+bus conductor	conductor in a bus
+cabinet reshuffle	reshuffle of the cabinet
+calculator display	display of a calculator
+cancer death	death due to cancer
+car accident	accident caused by a car
+care assistant	assistant for care
+castle gate	gate of the castle
+catering manager	manager for catering
+cell focus	focus of a cell
+census record	record of census
+chalk drawing	drawing of chalk
+class party	party for the class
+client need	need of the client
+coal consumption	consumption for coal
+coca leaf	leaf of coca
+colour illustration	illustration of colour
+community hospital	hospital for community
+computer hardware	hardware for computers
+consignment note	note for consignment
+consumer benefit	benefit for the consumer
+contact time	time of contact
+copper wire	wire made of copper
+corduroy trousers	trousers made of corduroy
+corporation tax	tax levied by corporation
+council housing	housing for council
+coup plan	plan for a coup
+defence budget	budget for defence
+delivery order	order for delivery
+development board	board for development
+discharge limit	limit of discharge
+divorce rate	rate of divorce
+door knocker	knocker knocks the door
+drama project	project about drama
+drug charge	charge of the drug
+energy input	input of energy
+equity investment	investment in equity
+family fun	fun in the family
+fire officer	officer in a fire department
+fish house	house for fish
+front tooth	tooth in the front
+garden party	party in a garden
+gift voucher	voucher given as a gift
+golf tournament	tournament of golf
+government authority	authority of the government
+grain trade	trade for grain
+hand grip	grip for the hand
+harvest time	time to harvest
+history book	book about history
+hit list	list of hits
+household account	account for the household
+hunger strike	strike due to hunger
+interim stage	stage which is interim
+investment income	income derived from investments
+job hunting	hunting for a job
+kitchen door	door to the kitchen
+labour party	party for labour
+layer cake	cake with layers
+lecture course	course of lecture
+life expectancy	expectancy of life
+line fitting	fitting for the line
+literature survey	survey of literature
+loading bay	bay for loading
+maintenance work	work done for maintenance
+market need	need for the market
+messenger service	service as a messenger
+mortality record	record of mortality
+mother bird	bird that is a mother
+motor transport	transport by motor
+music group	group of music
+obstacle course	course that has obstacles
+office desk	desk in the office
+parish hall	hall is in parish
+party group	group in a party
+passenger flight	flight for passengers
+pattern room	room of pattern
+pay rate	rate of pay
+payment difficulty	difficulty in payment
+pedal power	power of pedal
+personnel file	file containing personnel information
+petrol price	price of petrol
+phase diagram	diagram of phase
+phone number	number of a phone
+police spokesman	spokesman for the police
+polythene sheeting	sheeting made of polythene
+port industry	industry for port
+power pack	pack of power
+product quality	quality of a product
+property tax	tax paid for property
+publishing course	course for publishing
+purse net	net for a purse
+recognition system	system for recognition
+redundancy policy	policy of redundancy
+research method	method of research
+resource management	management of resources
+road victim	victim of road
+rubber glove	glove made of rubber
+rugby captain	captain of the rugby team
+share holding	holding of a share
+soccer team	team of soccer players
+soil particle	particle of soil
+solution seam	seam of solution
+sport club	club for sports
+spring weather	weather in spring
+stage area	area around a stage
+state army	army of the state
+steam train	train that runs on steam
+stencil design	design of stencil
+stock market	market dealing with stock
+success rate	percentage rate of success
+suffragette movement	movement for suffragette
+system analysis	analysis of systems
+tape unit	unit of the tape
+tax concession	concession for tax
+telephone conversation	conversation by telephone
+textile company	company that produces textiles
+thought pattern	different patterns of thoughts
+time commitment	commitment of time
+top official	official at the top
+trade practice	practice of trade
+training officer	officer for training
+trust manager	manager for a trust
+truth value	value of truth
+union power	power of union
+unit manager	manager of the unit
+video recorder	recorder for video
+waste material	material that is a waste
+water butt	butt of water
+wind advantage	advantage of wind
+wine bar	bar that serves wine
+wiring diagram	diagram for wiring
+withdrawal line	line of withdrawal
+work area	area for work
